@@ -11,7 +11,7 @@ public class Student {
         name = newName;
     }
     void printScore(){
-        System.out.println(name + "さんの点数は" + score "点です！！");
+        System.out.println(name + "さんの点数は" + score + "点です！！");
     }
 
     int getScore(){
